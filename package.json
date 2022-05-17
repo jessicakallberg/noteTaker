@@ -1,0 +1,23 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "This application will use an Express.js back end and will save and retrieve note data from a JSON file.",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicakallberg/noteTaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicakallberg/noteTaker/issues"
+  },
+  "homepage": "https://github.com/jessicakallberg/noteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
