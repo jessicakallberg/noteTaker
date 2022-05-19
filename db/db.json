@@ -1,6 +1,14 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+	{
+		"title": "Test Title",
+		"text": "Test text"
+	},
+	{
+		"title": "groceries!",
+		"text": "Chicken\npotatoes\npasta\nsauce\nchips\npaper plates\n"
+	},
+	{
+		"title": "Finances",
+		"text": "rent\ncar note\ninsurance\ncell phone\ncable\nspending money\n"
+	}
 ]
