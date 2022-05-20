@@ -5,11 +5,13 @@ This application will use an Express.js back end and will save and retrieve note
 
 ## Installation
 
-You would need to fork this project to duplicate, initiate npm dependencies, ensure PORT is listening and go to website 
+You would need to fork this project to duplicate, initiate npm dependencies, ensure PORT is listening and go to website got to localhost:3001
 
 ## Usage
 
 Able to use to keep notes on things to do throughout your day
+
+![Capture30](./public/assets/images/Module%2011%20%232.PNG)
 
 ![Caputre30](./public/assets/images/Module%2011.PNG)
 
