@@ -40,7 +40,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ![Markdown](https://img.shields.io/badge/Markdown-0000000?style=plasticfor-the-badge&logo=markdown&logoColor=black)
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=plasticfor-the-badge&logo=nodedotjs&logoColor=white)
+![Node](https://img.shields.io/badge/Express.js-00?style=plasticfor-the-badge&logo=express&logoColor=white)
 
 
 ## Languages Used
